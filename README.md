@@ -1,1 +1,1 @@
-https://github.com/manovimpriv10/ono-tebe-nado
+https://github.com/username/ono-tebe-nado-ad
