@@ -150,7 +150,7 @@
   display: flex;
   flex-direction: column;
   gap: 27px;
-  padding: 0 50px 135px;
+  padding: 0 50px 180px;
 }
 
 .lots-heading {
@@ -290,7 +290,7 @@
 .footer {
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
-  padding: 180px 50px 96px;
+  padding: 180px 50px 88px;
 }
 
 .footer .address {
