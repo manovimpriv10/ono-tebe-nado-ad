@@ -239,7 +239,7 @@
   display: grid;
   grid-template-columns: 240px 1fr;
   column-gap: 90px;
-  padding: 180px 50px 0;
+  padding: 0 50px;
 }
 
 .about__column {
@@ -290,7 +290,7 @@
 .footer {
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
-  padding: 180px 50px 80px;
+  padding: 180px 50px 96px;
 }
 
 .footer .address {
